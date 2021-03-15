@@ -37,6 +37,16 @@ Compreende o primeiro contato com a tecnologia e conceitos que podem ser amplame
 - Usando Typescript
 - Finalizando a Aplicação
 
+## Chapter #2: [Primeira Aplicação Web com ReactJS](first-webapp)
+
+Nesse módulo são abordadas as boas práticas de desenvolvimento frontend, como semântica, acessibilidade e experiência do usuário (UX), utilizando ReactJS. Destaca-se que todo conhecimento aprendido também serve perfeitamente para qualquer lib/framework pois foca na aplicação da trindade frontend: HTML, CSS e JS.
+
+- Estrutura da Aplicação
+- Componentização
+- Consumindo API
+- Modal e Forms
+- Contexto e Hooks
+
 ## 📝 Licença
 
 Este projeto esta sob a licença MIT.
