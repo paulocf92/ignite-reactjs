@@ -47,6 +47,14 @@ Nesse módulo são abordadas as boas práticas de desenvolvimento frontend, como
 - Modal e Forms
 - Contexto e Hooks
 
+## Chapter #3: [Fundamentos do Next.js](nextjs-fundamentals)
+
+Nesse módulo entenderemos como o Next.js transforma a nossa maneira de desenvolver aplicações front-end e descobriremos conceitos importantes como SSR e SSG.
+
+- Estrutura da aplicação
+- Componentes e páginas
+- Integração com API
+
 ## 📝 Licença
 
 Este projeto esta sob a licença MIT.
