@@ -47,13 +47,27 @@ Nesse módulo são abordadas as boas práticas de desenvolvimento frontend, como
 - Modal e Forms
 - Contexto e Hooks
 
-## Chapter #3: [Fundamentos do Next.js](nextjs-fundamentals)
+## Chapter #3: [Estratégias de Front-end](nextjs-serverless-jamstack)
 
-Nesse módulo entenderemos como o Next.js transforma a nossa maneira de desenvolver aplicações front-end e descobriremos conceitos importantes como SSR e SSG.
+Nesse módulo entenderemos como o Next.js leva soluções front-end para o próximo nível, abordando conceitos de autonomia do front-end com serverless e a aplicação real de uma JAMStack.
+
+### Fundamentos do Next.js
 
 - Estrutura da aplicação
 - Componentes e páginas
-- Integração com API
+- Integração com API (Stripe)
+
+### Back-end no front-end
+
+- API Routes no Next.js
+- Usando FaunaDB
+- Pagamentos com Stripe
+- Ouvindo webhooks
+
+### Front-end JAMStack
+
+- Trabalhando com CMS
+- Páginas estáticas
 
 ## 📝 Licença
 
